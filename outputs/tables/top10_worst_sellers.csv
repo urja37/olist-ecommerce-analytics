@@ -1,0 +1,11 @@
+rank,seller_id,seller_state,seller_city,n_orders,n_late_orders,late_rate_pct,avg_handling_days,avg_review_score
+1,ad781527c93d00d89a11eecd9dcad7c1,SP,sao jose do rio preto,34,12.0,35.29,12.71,3.41
+2,ede0c03645598cdfc63ca8237acbe73d,SP,ribeirao preto,43,15.0,34.88,3.72,3.57
+3,835f0f7810c76831d6c7d24c7a646d4d,SP,sao paulo,41,13.0,31.71,9.84,3.41
+4,54965bbe3e4f07ae045b90b0b8541f52,PR,foz do iguacu,72,22.0,30.56,15.47,3.18
+5,ef990a83bbea832f36ebe81376335aa8,SC,joinville,40,11.0,27.5,2.26,3.75
+6,2a1348e9addc1af5aaa619b1a3679d6b,MG,belo horizonte,48,13.0,27.08,5.13,3.17
+7,66e0557ecc2b4dbea057e93f215f68d8,SP,sao paulo,30,8.0,26.67,18.12,4.03
+8,a49928bcdf77c55c6d6e05e09a9b4ca5,SP,sao paulo,94,25.0,26.6,7.36,3.06
+9,beadbee30901a7f61d031b6b686095ad,SP,guarulhos,63,16.0,25.4,7.59,3.94
+10,71039d19d4303bf9054d69e9a9236699,SP,sao paulo,34,8.0,23.53,2.36,3.88

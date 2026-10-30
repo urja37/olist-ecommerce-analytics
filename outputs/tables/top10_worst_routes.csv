@@ -1,0 +1,11 @@
+rank,route,seller_state,customer_state,total_orders,late_orders,late_rate_pct,avg_distance_km,avg_review_score
+1,PR -> AL,PR,AL,35,14.0,40.0,2250.6,3.54
+2,SP -> AL,SP,AL,256,67.0,26.17,1902.8,3.7
+3,MA -> SP,MA,SP,124,31.0,25.0,2331.5,3.91
+4,RJ -> CE,RJ,CE,54,12.0,22.22,2122.4,3.65
+5,SP -> MA,SP,MA,493,105.0,21.3,2178.8,3.71
+6,PR -> MA,PR,MA,41,8.0,19.51,2490.8,3.8
+7,SP -> PI,SP,PI,329,60.0,18.24,2015.3,3.96
+8,MG -> AL,MG,AL,35,6.0,17.14,1519.7,4.15
+9,PR -> BA,PR,BA,143,24.0,16.78,1765.1,3.82
+10,RS -> BA,RS,BA,42,7.0,16.67,2195.4,4.07

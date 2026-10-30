@@ -1,0 +1,28 @@
+# Raw data and database files
+data/
+*.duckdb
+*.parquet
+*.zip
+
+# Large intermediate feature arrays (>5MB)
+outputs/X_train.csv
+outputs/X_test.csv
+outputs/y_train.csv
+outputs/y_test.csv
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints & autosaves
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

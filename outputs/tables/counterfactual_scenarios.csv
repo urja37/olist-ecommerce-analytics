@@ -1,0 +1,4 @@
+Scenario,Scope & Operational Action,Target Orders,Late Deliveries Eliminated,Bad Reviews (1-2★) Avoided,Low Review Reduction,Average Rating Impact
+1. Rio de Janeiro Focus,Cut lateness by 1/3 in RJ via regional 3PLs & carrier routing,"12,140",539,242,-2.0% (Mkt) / -10.9% (RJ),+0.010★ (Mkt) / +0.08★ (RJ)
+2. High-Delay States (10 States),"Cut lateness by 1/3 across AL, MA, PI, CE, SE, BA, RJ, TO, RR, PA via dynamic buffers","18,816",879,394,-3.2%,+0.016★
+3. Full Marketplace 1/3 Reduction,"Comprehensive SLA enforcement, dynamic promise buffers, and premature survey suppression","95,151",2536,1138,-9.3%,+0.05★

@@ -1,0 +1,5 @@
+Model_Specification,Sample_Size,Target_Rate,Late_Odds_Ratio,Late_OR_CI95,OLS_Late_Penalty,Logit_Pseudo_R2,OLS_R2
+"Baseline (Full Sample, low_review <= 2)",95151,12.8%,10.93,"[10.36, 11.53]",-1.64 stars,0.1536,0.1697
+Check 1: Low Review Defined as <= 3,95151,21.1%,8.39,"[7.96, 8.84]",-1.64 stars,0.1072,0.1697
+Check 3: Single-Seller Orders Only (Drop Multi-Seller),93922,12.4%,11.02,"[10.44, 11.62]",-1.64 stars,0.1474,0.1624
+Check 4: Exclude Black Friday Month (Nov 2017),87950,12.5%,10.80,"[10.20, 11.43]",-1.63 stars,0.1468,0.1611

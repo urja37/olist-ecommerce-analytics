@@ -1,0 +1,12 @@
+Metric,Value
+Total Delivered Orders with Reviews,"95,824"
+Overall Low Review Rate (Score <= 2),12.85%
+On-Time Delivery Low Review Rate,9.26%
+Late Delivery Low Review Rate,54.12%
+Relative Risk (RR = P_late / P_ontime),5.84x
+Odds Ratio (Late vs On-time),11.56
+Population Attributable Risk (PAR %),27.92%
+McFadden Pseudo-R2 (is_late alone),0.1160
+McFadden Pseudo-R2 (is_late + delay_days),0.1188
+McFadden Pseudo-R2 (Full Model),0.1887
+% of Model Deviance Explained by Delivery Lateness,61.46%
