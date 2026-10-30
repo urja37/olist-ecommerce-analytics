@@ -106,8 +106,8 @@ The analysis table was engineered across seven SQL modules:
 ### 1. Environment Setup & Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/olist-analysis.git
-cd olist-analysis
+git clone https://github.com/urja37/olist-ecommerce-analytics.git
+cd olist-ecommerce-analytics
 
 # Create and activate Python virtual environment (Python 3.10+)
 python -m venv .venv
