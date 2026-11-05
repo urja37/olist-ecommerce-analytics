@@ -120,7 +120,17 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Execution Order (Pipeline Workflow)
+### Quick Start: Entry-Level 5-Minute Analysis
+If you want a fast, accessible entry-level walkthrough (single clean SQL query + concise Jupyter notebook with 3 core charts, basic logistic regression, and practical recommendations):
+```bash
+# 1. Run the clean single-query SQL script (joins raw tables, milestones & lateness flags)
+duckdb olist.duckdb < sql/simple_orders_query.sql
+
+# 2. Open the simple 5-minute analysis notebook
+jupyter notebook notebooks/simple_analysis.ipynb
+```
+
+### 2. Execution Order (Full Production Pipeline)
 Execute the project sequentially in the following exact order:
 
 #### Step 1: SQL Data Transformation Pipeline (DuckDB)
